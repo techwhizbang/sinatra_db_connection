@@ -1,4 +1,4 @@
 = Sinatra DB Connection
 
-Quickly and easily establish a DB connection with ActiveRecord and a typical database.yml file
+Quickly and easily establish a DB connection with ActiveRecord and a typical database.yml file with your Sinatra app
 
